@@ -5,4 +5,4 @@ My solution is pretty simple, while generating TNX data in a loop, also creating
 Then store all the Dictionaries in IndexedDb.
 At the end, every time you want the result for each requirement/function, just need to query corresponding dictionary within input data as dictionary key.
 
-Because of the time complexity to query data from IndexedDb for each dictionary is really simple so I decided just share the context/description of the solution without the actual implemtation.
+Because of the time complexity to query data from IndexedDb for each dictionary is really simple so I decided just share the context/description of the solution without the actual implementation.
